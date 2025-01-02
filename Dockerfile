@@ -1,4 +1,4 @@
-FROM node:lts-alpine3.17
+FROM node:20.18.1-alpine3.20
 
 ARG SOURCE
 ARG COMMIT_HASH
